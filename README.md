@@ -15,7 +15,7 @@
 ### Source: Wisconsin Diagnostic Breast Cancer (WDBC) dataset https://www.kaggle.com/datasets/khansaafreen/breastdataset?select=data.cs
 
 ### Structure:
-  Features Explained: The dataset contains mean, standard error (SE), and worst values for each measurement of the tumor’s shape and texture
+  #### Features Explained: The dataset contains mean, standard error (SE), and worst values for each measurement of the tumor’s shape and texture
   
   `Radius`: Radius of the tumor
   
@@ -36,7 +36,7 @@
   `Symmetry`: Tumor symmetry
   
   `Fractal Dimension`: “Roughness” of the tumor boundary
-### ID and Target column:
+  #### ID and Target column:
   `ID`
   
   `Diagnosis`: M= Malignant, B = Benign
